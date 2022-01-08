@@ -4,6 +4,7 @@ I'll be publish on special chapter difficult example.
 
 # Books
   * Think Python: An Introduction to Software Design
+  * 1400 задач по программированию / Златопольский
 
 # Links
 
