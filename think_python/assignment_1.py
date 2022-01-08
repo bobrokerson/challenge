@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  8 09:56:19 2022
 
-@author: bobrokerson
-"""
+##Created on Sat Jan  8 09:56:19 2022
+
+#@author: bobrokerson
 
 # Exercise from book "Think Python: An Introduction to Software Design"
 
