@@ -3,7 +3,7 @@ I relised to create this repo about my way from 0 to data scientist. I'll be pub
 I'll be publish on special chapter difficult example. 
 
 # Books
-* Think Python: An Introduction to Software Design
+  * Think Python: An Introduction to Software Design
 
 # Links
 
