@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 13 14:20:15 2022
 
-@author: jimmy
+@author: bobrokerson
 """
 # Task:
 # Two words “interlock” if taking alternating letters from each forms a new
