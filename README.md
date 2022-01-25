@@ -11,8 +11,8 @@ I'll be publish on special chapter difficult example.
   * The making of a Manager
 
 # Topic do DC
-  1. Basic Python 
-  2.SQL
+  1. Basic Pyrhon
+  2. SQL
   3. Statistics. Linear algebra. Mathematical analysis
   4. A/B testing
   5. Probability of theory
@@ -25,7 +25,8 @@ I'll be publish on special chapter difficult example.
   12. NLP
   13. Machine Learning
   14. Deep Learning
-  15. Model Retraning
+  15. Model Retraning 
+  
 
 
 # Links
