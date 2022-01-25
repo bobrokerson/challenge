@@ -6,6 +6,8 @@ I'll be publish on special chapter difficult example.
   * Think Python: An Introduction to Software Design
   * 1400 задач по программированию / Златопольский
   * Data Science from Scratch second edition
+  * Software Engineering at Google
+  * The making of a Manager
 
 # Links
 
