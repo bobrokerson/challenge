@@ -9,6 +9,24 @@ I'll be publish on special chapter difficult example.
   * Software Engineering at Google
   * The making of a Manager
 
+# Topic do DC
+  1. Basic Python  <img src="https://img.shields.io/badge/coverage-80%25-green"/> <br>
+  2.SQL
+  3. Statistics. Linear algebra. Mathematical analysis
+  4. A/B testing
+  5. Probability of theory
+  6. Linear algorithms/search
+  7. Cluster analysis
+  8. Data Mining with Decision Trees
+  9. Evaluation Metrics
+  10. Bayesian belief network model
+  11. Ensemble learning, stacking and blending
+  12. NLP
+  13. Machine Learning
+  14. Deep Learning
+  15. Model Retraning
+
+
 # Links
 
 # LICENCE
