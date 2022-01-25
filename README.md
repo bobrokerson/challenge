@@ -10,7 +10,7 @@ I'll be publish on special chapter difficult example.
   * Software Engineering at Google
   * The making of a Manager
 
-# DC topics
+# DS topics
   1. Basic Python
   2. SQL
   3. Statistics. Linear algebra. Mathematical analysis
