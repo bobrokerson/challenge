@@ -1,4 +1,4 @@
-# Description <img src="https://img.shields.io/badge/coverage-80%25-green"/> <br>
+# Description <img src="https://img.shields.io/badge/coverage-80%25-green"/>   <img src="https://img.shields.io/badge/python-notebook-blue"/> <br>
 I relised to create this repo about my way from 0 to data scientist. I'll be publish all name of books what I've read including assignment.
 I'll be publish on special chapter difficult example. 
 
