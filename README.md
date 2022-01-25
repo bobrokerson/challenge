@@ -1,4 +1,4 @@
-# Description <img src="https://img.shields.io/badge/coverage-70%25-green"/> <br>
+# Description <img src="https://img.shields.io/badge/coverage-80%25-green"/> <br>
 I relised to create this repo about my way from 0 to data scientist. I'll be publish all name of books what I've read including assignment.
 I'll be publish on special chapter difficult example. 
 
@@ -10,8 +10,8 @@ I'll be publish on special chapter difficult example.
   * Software Engineering at Google
   * The making of a Manager
 
-# Topic do DC
-  1. Basic Pyrhon
+# DC topics
+  1. Basic Python
   2. SQL
   3. Statistics. Linear algebra. Mathematical analysis
   4. A/B testing
@@ -27,7 +27,8 @@ I'll be publish on special chapter difficult example.
   14. Deep Learning
   15. Model Retraning 
   
-
+# Example
+ 1. [assignments think_python](https://github.com/bobrokerson/challenge/tree/main/think_python)
 
 # Links
 
