@@ -1,6 +1,7 @@
-# Description
+# Description <img src="https://img.shields.io/badge/coverage-70%25-green"/> <br>
 I relised to create this repo about my way from 0 to data scientist. I'll be publish all name of books what I've read including assignment.
 I'll be publish on special chapter difficult example. 
+
 
 # Books
   * Think Python: An Introduction to Software Design
@@ -10,7 +11,7 @@ I'll be publish on special chapter difficult example.
   * The making of a Manager
 
 # Topic do DC
-  1. Basic Python  <img src="https://img.shields.io/badge/coverage-80%25-green"/> <br>
+  1. Basic Python 
   2.SQL
   3. Statistics. Linear algebra. Mathematical analysis
   4. A/B testing
