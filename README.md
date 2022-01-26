@@ -31,7 +31,8 @@ I'll be publish on special chapter difficult example.
  1. [assignments think_python](https://github.com/bobrokerson/challenge/tree/main/think_python)
 
 # Links
-1. [interview question](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
+1. [interview question #1](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
+2. [interview question #2](https://data36.com/junior-data-scientist-job-interview-questions-answers/)
 
 # LICENCE
 Open-sourced software licensed under the MIT license.
