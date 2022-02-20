@@ -11,6 +11,7 @@ I'll be publish on special chapter difficult example.
   * The making of a Manager
   * The Linear Algebra Survival Guide
   * SQL for data analysis O'Reilly
+  * Pandas for Everyone Python Data Analysis by Daniel Y. Chen
 
 # DS topics
   1. Basic Python
