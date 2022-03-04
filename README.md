@@ -12,6 +12,7 @@ I'll be publish on special chapter difficult example.
   * The Linear Algebra Survival Guide
   * SQL for data analysis O'Reilly
   * Pandas for Everyone Python Data Analysis by Daniel Y. Chen
+  * Jim Hefferon Linear Algebra
 
 # DS topics
   1. Basic Python
