@@ -9,10 +9,10 @@ I'll be publish on special chapter difficult example.
   * Data Science from Scratch second edition
   * Software Engineering at Google
   * The making of a Manager
-  * The Linear Algebra Survival Guide
+  * 1.The Linear Algebra Survival Guide. 2.Jim Hefferon Linear Algebra
   * SQL for data analysis O'Reilly
   * Pandas for Everyone Python Data Analysis by Daniel Y. Chen
-  * Jim Hefferon Linear Algebra
+  * Statistics: Introductory statistics Douglas Shafer
 
 # DS topics
   1. Basic Python
