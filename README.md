@@ -7,6 +7,7 @@ I'll be publish on special chapter difficult example.
   * Think Python: An Introduction to Software Design
   * 1400 задач по программированию / Златопольский
   * Data Science from Scratch second edition
+  * Python for data science Mckinney. Library Pandas most important library for cleaning data
   * Software Engineering at Google
   * The making of a Manager
   * 1.The Linear Algebra Survival Guide. 2.Jim Hefferon Linear Algebra
