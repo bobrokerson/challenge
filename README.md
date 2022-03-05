@@ -13,6 +13,7 @@ I'll be publish on special chapter difficult example.
   * SQL for data analysis O'Reilly
   * Pandas for Everyone Python Data Analysis by Daniel Y. Chen
   * Statistics: Introductory statistics Douglas Shafer
+  * Active Calculus, David C. H. Austin, Matthew Boelkins, and Steven Schlicker - mathematical analysis
 
 # DS topics
   1. Basic Python
