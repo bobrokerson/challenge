@@ -16,6 +16,9 @@ I'll be publish on special chapter difficult example.
   * Statistics: Introductory statistics Douglas Shafer
   * Active Calculus, David C. H. Austin, Matthew Boelkins, and Steven Schlicker - mathematical analysis
 
+# Courses
+  * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
+
 # DS topics
   1. Basic Python
   2. SQL
