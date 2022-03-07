@@ -22,7 +22,7 @@ I'll be publish on special chapter difficult example.
 
   TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
   
-  Unreasonable effectiveness of recurrent neural networks [here](https://russianblogs.com/article/8241741953/)
+  The Unreasonable Effectiveness of Recurrent Neural Networks [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 # DS topics
   1. Basic Python
