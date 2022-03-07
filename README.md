@@ -20,6 +20,7 @@ I'll be publish on special chapter difficult example.
   * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
 # Articles
   TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+  Unreasonable effectiveness of recurrent neural networks [here](https://russianblogs.com/article/8241741953/)
 
 # DS topics
   1. Basic Python
