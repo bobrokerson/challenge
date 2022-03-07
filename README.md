@@ -48,5 +48,10 @@ I'll be publish on special chapter difficult example.
 1. [interview question #1](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
 2. [interview question #2](https://data36.com/junior-data-scientist-job-interview-questions-answers/)
 
+# Dataset
+  * [data.gov](data.gov)
+  * [reddit](https://www.reddit.com/r/datasets/)
+  * [dataset for statistics](https://rs.io/100-interesting-data-sets-for-statistics/)
+
 # LICENCE
 Open-sourced software licensed under the MIT license.
