@@ -25,7 +25,7 @@ I'll be publish on special chapter difficult example.
   The Unreasonable Effectiveness of Recurrent Neural Networks [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 # DS topics
-  1. Basic Python
+  1. Basic Python + libraries
   2. SQL
   3. Statistics. Linear algebra. Mathematical analysis
   4. A/B testing
