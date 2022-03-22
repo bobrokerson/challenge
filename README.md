@@ -15,6 +15,7 @@ I'll be publish on special chapter difficult example.
   * Pandas for Everyone Python Data Analysis by Daniel Y. Chen
   * Statistics: Introductory statistics Douglas Shafer
   * Active Calculus, David C. H. Austin, Matthew Boelkins, and Steven Schlicker - mathematical analysis
+  * Deep Learning for Coders with fastai and PyTorch O'Reilly
 
 # Courses
   * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
