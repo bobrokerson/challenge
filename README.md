@@ -16,8 +16,16 @@ I'll be publish on special chapter difficult example.
   * Statistics: Introductory statistics Douglas Shafer
   * Active Calculus, David C. H. Austin, Matthew Boelkins, and Steven Schlicker - mathematical analysis
 
+# Courses
+  * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
+# Articles
+
+  * TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+  * Pytorch: [How Pytorch tensors’ backward() accumulates gradient](https://zhang-yang.medium.com/how-pytorch-tensors-backward-accumulates-gradient-8d1bf675579b)
+  * The Unreasonable Effectiveness of Recurrent Neural Networks [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 # DS topics
-  1. Basic Python
+  1. Basic Python + libraries
   2. SQL
   3. Statistics. Linear algebra. Mathematical analysis
   4. A/B testing
@@ -39,6 +47,11 @@ I'll be publish on special chapter difficult example.
 # Links
 1. [interview question #1](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
 2. [interview question #2](https://data36.com/junior-data-scientist-job-interview-questions-answers/)
+
+# Dataset
+  * [data.gov](data.gov)
+  * [reddit](https://www.reddit.com/r/datasets/)
+  * [dataset for statistics](https://rs.io/100-interesting-data-sets-for-statistics/)
 
 # LICENCE
 Open-sourced software licensed under the MIT license.
