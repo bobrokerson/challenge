@@ -20,10 +20,9 @@ I'll be publish on special chapter difficult example.
   * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
 # Articles
 
-  TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
-  
-  Pytorch: [How Pytorch tensors’ backward() accumulates gradient](https://zhang-yang.medium.com/how-pytorch-tensors-backward-accumulates-gradient-8d1bf675579b)
-  The Unreasonable Effectiveness of Recurrent Neural Networks [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  * TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+  * Pytorch: [How Pytorch tensors’ backward() accumulates gradient](https://zhang-yang.medium.com/how-pytorch-tensors-backward-accumulates-gradient-8d1bf675579b)
+  * The Unreasonable Effectiveness of Recurrent Neural Networks [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 # DS topics
   1. Basic Python + libraries
