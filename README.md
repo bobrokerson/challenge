@@ -49,6 +49,9 @@ I'll be publish on special chapter difficult example.
 1. [interview question #1](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions)
 2. [interview question #2](https://data36.com/junior-data-scientist-job-interview-questions-answers/)
 
+# Tricks
+  * [Notebook tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
 # Dataset
   * [data.gov](data.gov)
   * [reddit](https://www.reddit.com/r/datasets/)
