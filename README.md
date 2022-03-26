@@ -19,6 +19,7 @@ I'll be publish on special chapter difficult example.
 
 # Courses
   * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
+  * Data Science [course](https://mlcourse.ai/book/index.html)
 # Articles
 
   * TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
