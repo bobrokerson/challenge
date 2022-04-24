@@ -25,6 +25,7 @@ I'll be publish on special chapter difficult example.
   * TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
   * Pytorch: [How Pytorch tensors’ backward() accumulates gradient](https://zhang-yang.medium.com/how-pytorch-tensors-backward-accumulates-gradient-8d1bf675579b)
   * The Unreasonable Effectiveness of Recurrent Neural Networks [here](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  * Description [here](https://towardsdatascience.com/teach-yourself-data-science-in-2021-math-linear-algebra-6282be71e2b6#:~:text=As%20a%20mathematics%2Dintensive%20domain,and%20dimensionality%20reduction%2C%20among%20others.)
 
 # DS topics
   1. Basic Python + libraries
