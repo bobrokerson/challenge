@@ -66,6 +66,9 @@ I'll be publish on special chapter difficult example.
   * [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos) 
   * [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
 
+# Practice
+  * [DataCamp course linear algebra](https://campus.datacamp.com/courses/linear-algebra-for-data-science-in-r/introduction-to-linear-algebra?ex=2)
+
 
 # LICENCE
 Open-sourced software licensed under the MIT license.
