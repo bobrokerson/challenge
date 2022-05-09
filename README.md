@@ -16,10 +16,12 @@ I'll be publish on special chapter difficult example.
   * Statistics: Introductory statistics Douglas Shafer
   * Active Calculus, David C. H. Austin, Matthew Boelkins, and Steven Schlicker - mathematical analysis
   * Deep Learning for Coders with fastai and PyTorch O'Reilly
+  
 
 # Courses
   * Machine Learning from Stanford University [here](https://ru.coursera.org/learn/machine-learning)
   * Data Science [course](https://mlcourse.ai/book/index.html)
+  
 # Articles
 
   * TensorFlow [here](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
@@ -58,6 +60,12 @@ I'll be publish on special chapter difficult example.
   * [data.gov](data.gov)
   * [reddit](https://www.reddit.com/r/datasets/)
   * [dataset for statistics](https://rs.io/100-interesting-data-sets-for-statistics/)
+  
+  
+# Youtube 
+  * [3Blue1Brown](https://www.youtube.com/c/3blue1brown/videos) 
+  * [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
+
 
 # LICENCE
 Open-sourced software licensed under the MIT license.
